@@ -1,0 +1,13 @@
+{
+  "name": "cafe4me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd /app/client && npm run build",
+    "start": "cd /app/server && npm run start",
+    "dev": "npm run build && cd server && npm run start:dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
