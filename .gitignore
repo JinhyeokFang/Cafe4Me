@@ -70,5 +70,4 @@ coverage
 !.vscode/launch.json
 !.vscode/extensions.json
 
-images
 .env
